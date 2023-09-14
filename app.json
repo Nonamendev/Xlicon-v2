@@ -1,0 +1,19 @@
+{
+    "name": "Xlicon-v2",
+    "description": "A whatsApp bot based on Baileysjs linrary (Ts+Js) with Multi Device support",
+    "repository": "https://github.com/ahil15/Xlicon-v2",
+    "logo": "https://i.ibb.co/0Kc215k/images.jpg",
+    "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+      }
+    ],
+     "formation": {
+          "worker": {
+              "quantity": 1,
+              "size": "eco"
+          }
+      }
+  }
+  
