@@ -25,6 +25,7 @@ We request you to Read our full repository or u might get issues at deploying th
 For our bot support, Do email [ infiniteytff@gmail.com ] or join our Whatsapp Support Group.
 
 <a href="https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lime?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
 #### SETUP
 
 1. Fork the repo
