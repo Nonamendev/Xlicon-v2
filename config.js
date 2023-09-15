@@ -38,11 +38,11 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "Tata City, India";                   
-global.reactmoji = "❤️";
+global.location = "Dhaka, Bangladesh";                   
+global.reactmoji = "✅";
 global.themeemoji = "💖";
 global.vidmenu = { url: 'https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662' };
-global.websitex = "https://github.com/Kai0071";
+global.websitex = "https://github.com/ahil15";
 global.lolhuman = "KaysaS";
 
 
