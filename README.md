@@ -212,6 +212,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 * [`🎐 Kai.!!`](https://github.com/kai0071)
 * [`🎐 AsliGuru`](https://github.com/Guru322)
 * [`🎐 SuhailTechInfo`](https://github.com/SuhailTechInfo)
+* [`🎐 SALMAN AHMAD`](https://github.com/salmanytofficial)
 
 
 
