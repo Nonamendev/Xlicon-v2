@@ -11,7 +11,7 @@ global.antitags = true;
 
 //auto functioner
 global.autoTyping = true;                //auto tying by default off.
-global.autoRecord = false;                //auto recording by default off.
+global.autoRecord = true;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
 global.statusseen = true;                 //This is the new variable for controlling status seen.
 
@@ -34,7 +34,7 @@ global.sessionName = "session";                          //Do not change.
 
 //
 global.prefa = ["."];                                    //Default prefix here.
-global.openAiAPI = "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";
+global.openAiAPI = "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";
 
 
 //
