@@ -25,6 +25,7 @@ We request you to Read our full repository or u might get issues at deploying th
 For our bot support, Do email [ infiniteytff@gmail.com ] or join our Whatsapp Support Group.
 
 <a href="https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lime?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
 #### SETUP
 
 1. Fork the repo
@@ -33,7 +34,7 @@ For our bot support, Do email [ infiniteytff@gmail.com ] or join our Whatsapp Su
 
 2. Scan the QR and upload ***Creds.json*** file to your XLICON-SESSION Folder. You Have to Fork The bot to Use The Bot....( You will recieve the ***Creds.json*** on your bot number after scanning the Qr)
     <br>
-<a href='https://replit.com/@ahil15/XLICON-Multi-Session?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@ahil15/XLICON-Multi-qr?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 ## Installation 
@@ -98,6 +99,39 @@ Comment out/delete /* , */ the code form your Core.js line 224 and 332 in your o
 ```
 > npm start
 ```
+</details>
+
+## [`WATCH YOUTUBE VIDEOS`](youtube.com/infinite9454)
+ 
+  
+ * Deploy on Heroku Video ⇓
+ <p align="left">
+<a href="https://youtu.be/HBpZB1HYoPk?si=S8FEccLcp-nBtOMd"><img align="center" src="https://i.ibb.co/VVB2JHv/HBp-ZB1-HYo-Pk-SD.jpg" alt="DEPLOY" height="110" width="200" /></a>
+   
+* Deploy on Railway Video ⇓
+ <p align="left">
+<a href="coming soon"><img align="center" src="https://i.ibb.co/BCbcwtX/images.jpg" alt="DEPLOY" height="110" width="200" /></a>
+   
+* Deploy on Codespaces Video ⇓
+ <p align="left">
+<a href="[Coming soon](Coming Soon)"><img align="center" src="https://i.ibb.co/BCbcwtX/images.jpg" alt="DEPLOY" height="110" width="200" /></a>
+
+
+
+# 
+#
++ DEPLOY STEPS
+# 
+1. Fork This Repository 
+2. Update [`config.js`](https://github.com/ahil15/Xlicon-v2/blob/master/config.js)
+3. Upload the creds.json file to XLICON-SESSION folder
+4. Make account on your host
+5. Connect Your Repository to your web host site
+# 
+# 
+
+
+
 #### DEPLOY TO Heroku 
 
 1. Now Deploy
@@ -115,12 +149,6 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
-#### DEPLOY TO Replit 
-
-1. Now Deploy
-    <br>
-<p align="center"><a href="https://repl.it/github/ahil15/Xlicon-v2"> <img src="https://img.shields.io/badge/replit%20Deploy-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
-
 #### DEPLOY TO Codespaces
 
 1. Now Deploy
@@ -139,17 +167,6 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
     <br>
 <p align="center"><a href="https://studio.mogenius.com/"> <img src="https://img.shields.io/badge/Mongenius%20Deploy-blue?style=for-the-badge&logo=mongenius" width="220" height="38.45"/></a></p>
 
-#### DEPLOY TO Okteto
-
-1. Now Deploy
-    <br>
-<p align="center"><a href="https://cloud.okteto.com"> <img src="https://img.shields.io/badge/Okteto%20Deploy-darkblue?style=for-the-badge&logo=okteto" width="220" height="38.45"/></a></p>
-
-<br>
-<br>
-<br>
-<br>
-     
      
      
 - Termux
@@ -211,6 +228,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 * [`🎐 Kai.!!`](https://github.com/kai0071)
 * [`🎐 AsliGuru`](https://github.com/Guru322)
 * [`🎐 SuhailTechInfo`](https://github.com/SuhailTechInfo)
+* [`🎐 SALMAN AHMAD`](https://github.com/salmanytofficial)
 
 
 

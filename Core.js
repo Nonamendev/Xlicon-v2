@@ -460,7 +460,7 @@ function updateStatus() {
   // ㅤㅤ〄ㅤㅤ〘 XliconV2-MD Beta Editon〙ㅤㅤ〄ㅤㅤㅤㅤ
   // ㅤㅤㅤ〘ㅤ Auto Uptime: ${uptimeFormatted}ㅤ〙`;
 
-  function _0x582b(_0xabb6f8,_0x12cdd8){const _0x58e890=_0x58e8();return _0x582b=function(_0x582b90,_0x4387b3){_0x582b90=_0x582b90-0x189;let _0x932613=_0x58e890[_0x582b90];return _0x932613;},_0x582b(_0xabb6f8,_0x12cdd8);}function _0x58e8(){const _0x109554=['12896370RDSmnX','3BgvPel','189HbmdoW','18854HvEPNh','11TZHUID','9125326EcyeIg','464328lPaAMf','3400722cbWEOK','2263175KIczdo','12TaHNqM','2521564eqJRHK'];_0x58e8=function(){return _0x109554;};return _0x58e8();}(function(_0x429d7b,_0x532ab5){const _0x527567=_0x582b,_0x130eb4=_0x429d7b();while(!![]){try{const _0x75c57a=-parseInt(_0x527567(0x18b))/0x1+-parseInt(_0x527567(0x192))/0x2*(-parseInt(_0x527567(0x189))/0x3)+parseInt(_0x527567(0x191))/0x4*(-parseInt(_0x527567(0x190))/0x5)+-parseInt(_0x527567(0x18f))/0x6+parseInt(_0x527567(0x18d))/0x7+parseInt(_0x527567(0x18e))/0x8*(-parseInt(_0x527567(0x18a))/0x9)+parseInt(_0x527567(0x193))/0xa*(parseInt(_0x527567(0x18c))/0xb);if(_0x75c57a===_0x532ab5)break;else _0x130eb4['push'](_0x130eb4['shift']());}catch(_0x19ea04){_0x130eb4['push'](_0x130eb4['shift']());}}}(_0x58e8,0xa8dae));const status='\x0a\x20\x20ㅤㅤ〄ㅤㅤ〘\x20Xlicon-V2\x20Public\x20Edition\x20〙ㅤㅤ〄ㅤㅤㅤㅤ\x0a\x20\x20ㅤㅤㅤ〘ㅤ\x20Auto\x20Uptime:\x20'+uptimeFormatted+'ㅤ〙';
+  function _0x582b(_0xabb6f8,_0x12cdd8){const _0x58e890=_0x58e8();return _0x582b=function(_0x582b90,_0x4387b3){_0x582b90=_0x582b90-0x189;let _0x932613=_0x58e890[_0x582b90];return _0x932613;},_0x582b(_0xabb6f8,_0x12cdd8);}function _0x58e8(){const _0x109554=['12896370RDSmnX','3BgvPel','189HbmdoW','18854HvEPNh','11TZHUID','9125326EcyeIg','464328lPaAMf','3400722cbWEOK','2263175KIczdo','12TaHNqM','2521564eqJRHK'];_0x58e8=function(){return _0x109554;};return _0x58e8();}(function(_0x429d7b,_0x532ab5){const _0x527567=_0x582b,_0x130eb4=_0x429d7b();while(!![]){try{const _0x75c57a=-parseInt(_0x527567(0x18b))/0x1+-parseInt(_0x527567(0x192))/0x2*(-parseInt(_0x527567(0x189))/0x3)+parseInt(_0x527567(0x191))/0x4*(-parseInt(_0x527567(0x190))/0x5)+-parseInt(_0x527567(0x18f))/0x6+parseInt(_0x527567(0x18d))/0x7+parseInt(_0x527567(0x18e))/0x8*(-parseInt(_0x527567(0x18a))/0x9)+parseInt(_0x527567(0x193))/0xa*(parseInt(_0x527567(0x18c))/0xb);if(_0x75c57a===_0x532ab5)break;else _0x130eb4['push'](_0x130eb4['shift']());}catch(_0x19ea04){_0x130eb4['push'](_0x130eb4['shift']());}}}(_0x58e8,0xa8dae));const status='\x0a\x20\x20ㅤㅤ〄ㅤㅤ〘\x20XLICON\x20MULTIDEVICE\x202.0\x20〙ㅤㅤ〄ㅤㅤㅤㅤ\x0a\x20\x20ㅤㅤㅤ〘ㅤ\x20Auto\x20Uptime:\x20'+uptimeFormatted+'ㅤ〙';
 
   A17.setStatus(status); // Set the status using A17.setStatus or your equivalent method
 
@@ -2032,7 +2032,7 @@ case 'nsfwmenu':
   if (!m.isGroup) return reply(mess.grouponly);
   A17.sendMessage(from, { react: { text: "⚠️" , key: m.key }})
 
-      reply(` *━━〈 ⚠️ NSFW Menu ⚠️  〉━━*\n\n gifs, hentaivideo, blowjobgif, hneko, masturbation, thighs, pussy, panties, orgy, ahegao, ass, bdsm, blowjob, cuckold, ero, gasm, cum, femdom, foot, gangbang, glasses, jahy, trap, blowjobgif, spank, hneko, hwaifu, gasm`)
+      reply(` *━━❪🍒 NSFW Menu 🍒❫━━*\n\n gifs, hentaivideo, blowjob, neko2, masturbation, thighs, pussy, panties, orgy, ahegao, ass, bdsm, cuckold, ero, gasm, cum, femdom, foot, gangbang, glasses, jahy, trap, spank, hneko, hwaifu, gasm`)
   break;
 
 
@@ -6635,15 +6635,7 @@ break;
   A17.sendMessage(from, { react: { text: "✨" , key: m.key }})      
   const helpmenu = `Konnichiwaa! *${pushname}* Senpai...!! ${nowtime} ,
   
-Orewa, I am "Xʟɪᴄᴏɴ-Mᴜʟɪᴅᴇᴠɪᴄᴇ" a WhatsApp bot create and recode by *Sʟᴀꜱʜᴇʀ* to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
-
-
-  ⨳    *Time* : ${kaitime}
-  ⨳    *Date* : ${kaidate}
-
-
-  〢━━━ 〄 Bᴏᴛ Iɴꜰᴏ 〄 ━━━〢
-
+Hemlo, I am "Xlicon-Multidevice" a WhatsApp bot create and recode by Slasher to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
   ⨳    *Bot user name :* ${pushname} 
   ⨳    *My prefix is :*  ${prefix}
@@ -6652,306 +6644,372 @@ Orewa, I am "Xʟɪᴄᴏɴ-Mᴜʟɪᴅᴇᴠɪᴄᴇ" a WhatsApp bot create and 
   ⨳    *Platform :* Linux
   ⨳    *Founder :* Slasher!!
   ⨳    *Base Credit :* Kai..!!
+  ⨳    *Time* : ${kaitime}
+  ⨳    *Date* : ${kaidate}
+
+  ╔───「⚡ Cᴏʀᴇ  ⚡」───〆
 
 
-  〢━━━ 〄 Cᴏʀᴇ 〄 ━━━〢
-
-
-  ⨳     ${prefix}repo
-  ⨳     ${prefix}script
-  ⨳     ${prefix}speak
-  ⨳     ${prefix}support
-  ⨳     ${prefix}stalk
-  ⨳     ${prefix}setprefix
-  ⨳     ${prefix}auto-status
-  ⨳     ${prefix}auto-typing
-  ⨳     ${prefix}auto-recoding
-
-
-  〢━━━ ⌬ Oᴡɴᴇʀ Oɴʟʏ ⌬ ━━━〢
-
-
-  ⨳     ${prefix}join
-  ⨳     ${prefix}self
-  ⨳     ${prefix}public
-  ⨳     ${prefix}restart
-  ⨳     ${prefix}sleep
-  ⨳     ${prefix}setbotpp
-  ⨳     ${prefix}post
-  ⨳     ${prefix}listonline
-  ⨳     ${prefix}listgc
-  ⨳     ${prefix}listpc
-  ⨳     ${prefix}getcase
-  ⨳     ${prefix}bangroup
-  ⨳     ${prefix}broadcast
-  ⨳     ${prefix}bye
-  ⨳     ${prefix}block
-  ⨳     ${prefix}unblock
-  ⨳     ${prefix}ban add
-  ⨳     ${prefix}ban del
-
- 
-  〢━━ ❅ Gʀᴏᴜᴘ Mᴏᴅᴇʀᴀᴛɪᴏɴ ❅ ━━〢
-
-
-  ⨳     ${prefix}add
-  ⨳     ${prefix}invite
-  ⨳     ${prefix}remove
-  ⨳     ${prefix}promote
-  ⨳     ${prefix}demote
-  ⨳     ${prefix}grouplink
-  ⨳     ${prefix}group-event
-  ⨳     ${prefix}groupsetting
-  ⨳     ${prefix}setname
-  ⨳     ${prefix}setgcpp
-  ⨳     ${prefix}setdesc
-  ⨳     ${prefix}revoke
-  ⨳     ${prefix}tagall
-  ⨳     ${prefix}hidetag
-  ⨳     ${prefix}nsfw
-  ⨳     ${prefix}nsnfwmenu
-
-
-  〢━━━❗*Aɴᴛɪ Lɪɴᴋ*❗ ━━━〢
-
+  ┇ ❍   ${prefix}repo
+  ┇ ❍   ${prefix}script
+  ┇ ❍   ${prefix}speak
+  ┇ ❍   ${prefix}support
+  ┇ ❍   ${prefix}stalk
+  ┇ ❍   ${prefix}setprefix
+  ┇ ❍   ${prefix}auto-status
+  ┇ ❍   ${prefix}auto-typing
+  ┇ ❍   ${prefix}auto-recoding
   
-  ⨳     ${prefix}antilinkgc
-  ⨳     ${prefix}antilinktt
-  ⨳     ${prefix}antilinkytch
-  ⨳     ${prefix}antilinkytch
-  ⨳     ${prefix}antilinkig
-  ⨳     ${prefix}antilinkfb
-  ⨳     ${prefix}antilinktwit
-  ⨳     ${prefix}antiwame
-  ⨳     ${prefix}antilinkall
+  ╰───────────────❍
+  
   
 
-  〢━━━ 🔍 *Sᴇᴀʀᴄʜ* 🔎 ━━━〢
+
+  ╔───「 ⭐ Oᴡɴᴇʀ Oɴʟʏ ⭐ 」───〆
+
+
+  ┇ ❍   ${prefix}join
+  ┇ ❍   ${prefix}self
+  ┇ ❍   ${prefix}public
+  ┇ ❍   ${prefix}restart
+  ┇ ❍   ${prefix}sleep
+  ┇ ❍   ${prefix}setbotpp
+  ┇ ❍   ${prefix}post
+  ┇ ❍   ${prefix}listonline
+  ┇ ❍   ${prefix}listgc
+  ┇ ❍   ${prefix}listpc
+  ┇ ❍   ${prefix}getcase
+  ┇ ❍   ${prefix}bangroup
+  ┇ ❍   ${prefix}broadcast
+  ┇ ❍   ${prefix}bye
+  ┇ ❍   ${prefix}block
+  ┇ ❍   ${prefix}unblock
+  ┇ ❍   ${prefix}ban add
+  ┇ ❍   ${prefix}ban del
+
+  ╰───────────────❍
+  
+  
   
  
-  ⨳     ${prefix}play
-  ⨳     ${prefix}song
-  ⨳     ${prefix}video
-  ⨳     ${prefix}ytmp3
-  ⨳     ${prefix}ytmp4 
-  ⨳     ${prefix}yts
-  ⨳     ${prefix}lyrics
-  ⨳     ${prefix}movie
-  ⨳     ${prefix}google
-  ⨳     ${prefix}gimage
-  ⨳     ${prefix}pinterest
-  ⨳     ${prefix}wallpaper
-  ⨳     ${prefix}image
-  ⨳     ${prefix}searchgc
-  ⨳     ${prefix}wikimedia
+  ╔───「 🥀 Gʀᴏᴜᴘ Mᴏᴅᴇʀᴀᴛɪᴏɴ 🥀 」───〆
 
 
-  〢━━━ 📈 *Eᴄᴏɴᴏᴍʏ* 📈 ━━━〢
+  ┇ ❍   ${prefix}add
+  ┇ ❍   ${prefix}invite
+  ┇ ❍   ${prefix}remove
+  ┇ ❍   ${prefix}promote
+  ┇ ❍   ${prefix}demote
+  ┇ ❍   ${prefix}grouplink
+  ┇ ❍   ${prefix}group-event
+  ┇ ❍   ${prefix}groupsetting
+  ┇ ❍   ${prefix}setname
+  ┇ ❍   ${prefix}setgcpp
+  ┇ ❍   ${prefix}setdesc
+  ┇ ❍   ${prefix}revoke
+  ┇ ❍   ${prefix}tagall
+  ┇ ❍   ${prefix}hidetag
+  ┇ ❍   ${prefix}nsfw
+  ┇ ❍   ${prefix}nsnfwmenu
 
-
-  ⨳     ${prefix}daily 
-  ⨳     ${prefix}wallet
-  ⨳     ${prefix}bank
-  ⨳     ${prefix}bankupgrade
-  ⨳     ${prefix}deposit
-  ⨳     ${prefix}withdraw 
-  ⨳     ${prefix}rob / attack
-  ⨳     ${prefix}transfer / give
-  ⨳     ${prefix}wealth / ritual
-
-
-  〢━━━ 🎮 *Fᴜɴ & Gᴀᴍᴇꜱ* 🎮 ━━━〢
-
-
-  ⨳     ${prefix}ttt / tictactoe
-  ⨳     ${prefix}truth
-  ⨳     ${prefix}dare
-  ⨳     ${prefix}spin / slot
-  ⨳     ${prefix}gamble / lottery
- 
-
-  〢━━━ 🛠️ *Cᴏɴᴠᴇʀᴛ* 🛠️ ━━━〢
- 
-
-  ⨳     ${prefix}sticker
-  ⨳     ${prefix}toimg
-  ⨳     ${prefix}tovideo
-  ⨳     ${prefix}togif
-  ⨳     ${prefix}tourl
-  ⨳     ${prefix}tomp3
-  ⨳     ${prefix}toaudio
-  ⨳     ${prefix}steal
-  ⨳     ${prefix}stickermeme
-  ⨳     ${prefix}emojimix
-
-
-  〢━━━ 🔊 *Sᴏᴜɴᴅ Eᴅɪᴛ* 🔊 ━━━〢
-
-
-  ⨳     ${prefix}ringtone
-  ⨳     ${prefix}bass
-  ⨳     ${prefix}tempo
-  ⨳     ${prefix}blown
-  ⨳     ${prefix}robot
-  ⨳     ${prefix}slow
-  ⨳     ${prefix}squirrel
-  ⨳     ${prefix}deep
-  ⨳     ${prefix}earrape
-  ⨳     ${prefix}fast
-  ⨳     ${prefix}fat
-  ⨳     ${prefix}nightcore
-  ⨳     ${prefix}reverse
-
-
-  〢━━━ 📍 *Rᴇᴀᴄᴛɪᴏɴ's* 📍 ━━━〢
- 
-
-  ⨳     ${prefix}cuddle
-  ⨳     ${prefix}hug
-  ⨳     ${prefix}kiss
-  ⨳     ${prefix}bonk
-  ⨳     ${prefix}cry
-  ⨳     ${prefix}bully
-  ⨳     ${prefix}slap
-  ⨳     ${prefix}kill
-  ⨳     ${prefix}happy
-  ⨳     ${prefix}lick
-  ⨳     ${prefix}pat
-  ⨳     ${prefix}smug
-  ⨳     ${prefix}nom
-  ⨳     ${prefix}glomp
-  ⨳     ${prefix}bite
-  ⨳     ${prefix}yeet
-  ⨳     ${prefix}blush
-  ⨳     ${prefix}smile
-  ⨳     ${prefix}wave
-  ⨳     ${prefix}highfive
-  ⨳     ${prefix}handhold
-  ⨳     ${prefix}poke
-  ⨳     ${prefix}wink
-  ⨳     ${prefix}dance
-  ⨳     ${prefix}cringe
-
-
-  〢━━ 🌌 *Dᴏᴡɴʟᴏᴀᴅᴇʀ* 🌌 ━━〢
- 
-
-  ⨳     ${prefix}ytvideo
-  ⨳     ${prefix}mediafire
-  ⨳     ${prefix}instagram
-  ⨳     ${prefix}igtv
-  ⨳     ${prefix}facebook
-  ⨳     ${prefix}fbmp3
-  ⨳     ${prefix}twitter
-  ⨳     ${prefix}twittermp3
-  ⨳     ${prefix}tiktok
-  ⨳     ${prefix}tiktokaudio
-  ⨳     ${prefix}happymod
-  ⨳     ${prefix}tiktoknowm
-
- 
-  〢━━━ 🎐 *Tʀᴏʟʟ* 🎐 ━━━〢
+  ╰───────────────❍
+  
+  
   
 
-  ⨳     ${prefix}reaction
-  ⨳     ${prefix}cutecheck
-  ⨳     ${prefix}couple
-  ⨳     ${prefix}soulmate
-  ⨳     ${prefix}handsomecheck
-  ⨳     ${prefix}beautifulcheck
-  ⨳     ${prefix}awesomecheck
-  ⨳     ${prefix}greatcheck
-  ⨳     ${prefix}gaycheck
-  ⨳     ${prefix}uglycheck
-  ⨳     ${prefix}charactercheck
-  ⨳     ${prefix}lesbiancheck
-  ⨳     ${prefix}hornycheck
-  ⨳     ${prefix}prettycheck
-  ⨳     ${prefix}lovelycheck
-
-
-  〢━━━ 🈴 *Wᴇᴇʙꜱ* 🈴 ━━━〢
+  ╔───「❗ Aɴᴛɪ Lɪɴᴋ❗」───〆
 
   
-  ⨳     ${prefix}anime
-  ⨳     ${prefix}animestory
-  ⨳     ${prefix}awoo
-  ⨳     ${prefix}manga
-  ⨳     ${prefix}animewall
-  ⨳     ${prefix}animewallpaper2
-  ⨳     ${prefix}crosplay
-  ⨳     ${prefix}animenom
-  ⨳     ${prefix}feed
-  ⨳     ${prefix}foxgirl
-  ⨳     ${prefix}waifu
-  ⨳     ${prefix}waifu2
-  ⨳     ${prefix}waifu3
-  ⨳     ${prefix}loli
-  ⨳     ${prefix}coffee
-  ⨳     ${prefix}tickle
-  ⨳     ${prefix}meow
-  ⨳     ${prefix}neko
-  ⨳     ${prefix}neko2
-  ⨳     ${prefix}migumin
-  ⨳     ${prefix}wallpaper
-  ⨳     ${prefix}animequote
- 
-
-  〢━━━ ♨️ *Iɴꜰᴏʀᴍᴀᴛɪᴠᴇ* ♨️ ━━━〢
+  ┇ ❍   ${prefix}antilinkgc
+  ┇ ❍   ${prefix}antilinktt
+  ┇ ❍   ${prefix}antilinkytch
+  ┇ ❍   ${prefix}antilinkytch
+  ┇ ❍   ${prefix}antilinkig
+  ┇ ❍   ${prefix}antilinkfb
+  ┇ ❍   ${prefix}antilinktwit
+  ┇ ❍   ${prefix}antiwame
+  ┇ ❍   ${prefix}antilinkall
   
-
-  ⨳     ${prefix}quote
-  ⨳     ${prefix}weather
-  ⨳     ${prefix}covid
-  ⨳     ${prefix}earthquake
-  ⨳     ${prefix}wiki
-  ⨳     ${prefix}stalknumber
+  ╰───────────────❍
 
 
-  〢━━━ 🪁 *Eꜱꜱᴇɴᴛɪᴀʟꜱ* 🪁 ━━━〢
- 
-  
-  ⨳     ${prefix}say
-  ⨳     ${prefix}fliptext
-  ⨳     ${prefix}toletter
-  ⨳     ${prefix}translate, 
+
+
+  ╔───「  🔍 Sᴇᴀʀᴄʜ 🔎 」───〆
   
  
-  〢━━━ 🎗 *Oᴛʜᴇʀꜱ* 🎗 ━━━〢
+  ┇ ❍   ${prefix}play
+  ┇ ❍   ${prefix}song
+  ┇ ❍   ${prefix}video
+  ┇ ❍   ${prefix}ytmp3
+  ┇ ❍   ${prefix}ytmp4 
+  ┇ ❍   ${prefix}yts
+  ┇ ❍   ${prefix}lyrics
+  ┇ ❍   ${prefix}movie
+  ┇ ❍   ${prefix}google
+  ┇ ❍   ${prefix}gimage
+  ┇ ❍   ${prefix}pinterest
+  ┇ ❍   ${prefix}wallpaper
+  ┇ ❍   ${prefix}image
+  ┇ ❍   ${prefix}searchgc
+  ┇ ❍   ${prefix}wikimedia
+
+  ╰───────────────❍
 
 
-  ⨳     ${prefix}stickermeme
-  ⨳     ${prefix}quotes
-  ⨳     ${prefix}report
-  ⨳     ${prefix}afk
-  ⨳     ${prefix}darkjoke
+
+
+  ╔───「  📈 Eᴄᴏɴᴏᴍʏ 📈 」───〆
+
+
+  ┇ ❍   ${prefix}daily 
+  ┇ ❍   ${prefix}wallet
+  ┇ ❍   ${prefix}bank
+  ┇ ❍   ${prefix}bankupgrade
+  ┇ ❍   ${prefix}deposit
+  ┇ ❍   ${prefix}withdraw 
+  ┇ ❍   ${prefix}rob / attack
+  ┇ ❍   ${prefix}transfer / give
+  ┇ ❍   ${prefix}wealth / ritual
+  
+  ╰───────────────❍
+
+
+
+
+
+  ╔───「🎮 Fᴜɴ & Gᴀᴍᴇꜱ 🎮 」───〆
+
+
+  ┇ ❍   ${prefix}ttt / tictactoe
+  ┇ ❍   ${prefix}truth
+  ┇ ❍   ${prefix}dare
+  ┇ ❍   ${prefix}spin / slot
+  ┇ ❍   ${prefix}gamble / lottery
+  
+  ╰───────────────❍
+ 
+ 
+ 
+ 
+
+  ╔───「 🛠️ Cᴏɴᴠᴇʀᴛ 🛠️ 」───〆
+ 
+
+  ┇ ❍   ${prefix}sticker
+  ┇ ❍   ${prefix}toimg
+  ┇ ❍   ${prefix}tovideo
+  ┇ ❍   ${prefix}togif
+  ┇ ❍   ${prefix}tourl
+  ┇ ❍   ${prefix}tomp3
+  ┇ ❍   ${prefix}toaudio
+  ┇ ❍   ${prefix}steal
+  ┇ ❍   ${prefix}stickermeme
+  ┇ ❍   ${prefix}emojimix
+  
+  ╰───────────────❍
+  
+  
   
 
-  〢━━━ ♀ *NꜱꜰᴡMᴇɴᴜ* ♀ ━━━〢
+
+  ╔───「 🔊 Sᴏᴜɴᴅ Eᴅɪᴛ 🔊 」───〆
+
+
+  ┇ ❍   ${prefix}ringtone
+  ┇ ❍   ${prefix}bass
+  ┇ ❍   ${prefix}tempo
+  ┇ ❍   ${prefix}blown
+  ┇ ❍   ${prefix}robot
+  ┇ ❍   ${prefix}slow
+  ┇ ❍   ${prefix}squirrel
+  ┇ ❍   ${prefix}deep
+  ┇ ❍   ${prefix}earrape
+  ┇ ❍   ${prefix}fast
+  ┇ ❍   ${prefix}fat
+  ┇ ❍   ${prefix}nightcore
+  ┇ ❍   ${prefix}reverse
+  
+  ╰───────────────❍
+  
+  
+  
+
+
+  ╔───「 📍 Rᴇᴀᴄᴛɪᴏɴs📍 」───〆
+ 
+
+  ┇ ❍   ${prefix}cuddle
+  ┇ ❍   ${prefix}hug
+  ┇ ❍   ${prefix}kiss
+  ┇ ❍   ${prefix}bonk
+  ┇ ❍   ${prefix}cry
+  ┇ ❍   ${prefix}bully
+  ┇ ❍   ${prefix}slap
+  ┇ ❍   ${prefix}kill
+  ┇ ❍   ${prefix}happy
+  ┇ ❍   ${prefix}lick
+  ┇ ❍   ${prefix}pat
+  ┇ ❍   ${prefix}smug
+  ┇ ❍   ${prefix}nom
+  ┇ ❍   ${prefix}glomp
+  ┇ ❍   ${prefix}bite
+  ┇ ❍   ${prefix}yeet
+  ┇ ❍   ${prefix}blush
+  ┇ ❍   ${prefix}smile
+  ┇ ❍   ${prefix}wave
+  ┇ ❍   ${prefix}highfive
+  ┇ ❍   ${prefix}handhold
+  ┇ ❍   ${prefix}poke
+  ┇ ❍   ${prefix}wink
+  ┇ ❍   ${prefix}dance
+  ┇ ❍   ${prefix}cringe
+  
+  ╰───────────────❍
+  
+  
+  
+
+
+  ╔───「  🌌 Dᴏᴡɴʟᴏᴀᴅᴇʀ 🌌 」───〆
+ 
+
+  ┇ ❍   ${prefix}ytvideo
+  ┇ ❍   ${prefix}mediafire
+  ┇ ❍   ${prefix}instagram
+  ┇ ❍   ${prefix}igtv
+  ┇ ❍   ${prefix}facebook
+  ┇ ❍   ${prefix}fbmp3
+  ┇ ❍   ${prefix}twitter
+  ┇ ❍   ${prefix}twittermp3
+  ┇ ❍   ${prefix}tiktok
+  ┇ ❍   ${prefix}tiktokaudio
+  ┇ ❍   ${prefix}happymod
+  ┇ ❍   ${prefix}tiktoknowm
+  
+  ╰───────────────❍
+  
+  
+  
+
+ 
+  ╔───「  🎐 Tʀᴏʟʟ 🎐 」───〆
+  
+
+  ┇ ❍   ${prefix}reaction
+  ┇ ❍   ${prefix}cutecheck
+  ┇ ❍   ${prefix}couple
+  ┇ ❍   ${prefix}soulmate
+  ┇ ❍   ${prefix}handsomecheck
+  ┇ ❍   ${prefix}beautifulcheck
+  ┇ ❍   ${prefix}awesomecheck
+  ┇ ❍   ${prefix}greatcheck
+  ┇ ❍   ${prefix}gaycheck
+  ┇ ❍   ${prefix}uglycheck
+  ┇ ❍   ${prefix}charactercheck
+  ┇ ❍   ${prefix}lesbiancheck
+  ┇ ❍   ${prefix}hornycheck
+  ┇ ❍   ${prefix}prettycheck
+  ┇ ❍   ${prefix}lovelycheck
+  
+  ╰───────────────❍
+
+
+
+
+  ╔───「  🈴 Wᴇᴇʙꜱ 🈴 」───〆
+
+  
+  ┇ ❍   ${prefix}anime
+  ┇ ❍   ${prefix}animestory
+  ┇ ❍   ${prefix}awoo
+  ┇ ❍   ${prefix}manga
+  ┇ ❍   ${prefix}animewall
+  ┇ ❍   ${prefix}animewallpaper2
+  ┇ ❍   ${prefix}crosplay
+  ┇ ❍   ${prefix}animenom
+  ┇ ❍   ${prefix}feed
+  ┇ ❍   ${prefix}foxgirl
+  ┇ ❍   ${prefix}waifu
+  ┇ ❍   ${prefix}waifu2
+  ┇ ❍   ${prefix}waifu3
+  ┇ ❍   ${prefix}loli
+  ┇ ❍   ${prefix}coffee
+  ┇ ❍   ${prefix}tickle
+  ┇ ❍   ${prefix}meow
+  ┇ ❍   ${prefix}neko
+  ┇ ❍   ${prefix}neko2
+  ┇ ❍   ${prefix}migumin
+  ┇ ❍   ${prefix}wallpaper
+  ┇ ❍   ${prefix}animequote
+  
+  ╰───────────────❍
+ 
+
+  ╔───「 ♨️ Iɴꜰᴏʀᴍᴀᴛɪᴠᴇ ♨️ 」───〆
+  
+
+  ┇ ❍   ${prefix}quote
+  ┇ ❍   ${prefix}weather
+  ┇ ❍   ${prefix}covid
+  ┇ ❍   ${prefix}earthquake
+  ┇ ❍   ${prefix}wiki
+  ┇ ❍   ${prefix}stalknumber
+  
+  ╰───────────────❍
+
+
+  ╔───「  🪁 Eꜱꜱᴇɴᴛɪᴀʟꜱ 🪁 」───〆
+ 
+  
+  ┇ ❍   ${prefix}say
+  ┇ ❍   ${prefix}fliptext
+  ┇ ❍   ${prefix}toletter
+  ┇ ❍   ${prefix}translate 
+  
+  ╰───────────────❍
+  
+  
+  
+  
+ 
+  ╔───「  🎗 Oᴛʜᴇʀꜱ 🎗 」───〆
+
+
+  ┇ ❍   ${prefix}stickermeme
+  ┇ ❍   ${prefix}quotes
+  ┇ ❍   ${prefix}report
+  ┇ ❍   ${prefix}afk
+  ┇ ❍   ${prefix}darkjoke
+  
+  ╰───────────────❍
+  
+
+  ╔───「♀ NꜱꜰᴡMᴇɴᴜ ♀ 」───〆
  
  
-  ⨳   🍁 Type *${prefix}nsfw* then enable 
-  ⨳       NSFW (Admin only!)
-  ⨳    
-  ⨳   🍁 Then type *${prefix}nsfwmenu* for
-  ⨳       all NSFW commands.
-  ⨳    
-  ⨳   『  *${global.BotName}*  』
-  ⨳       Developed By: *Slasher*
-  ⨳    
-  ⨳   🍁 To use any of these
-  ⨳       commands type.
-  ⨳    
-  ⨳   *${prefix}<Command name>*.
-  ⨳    
-  ⨳   🍁 To get Support Group link
-  ⨳     type *${prefix}support*.
-  ⨳    
-  ⨳    
-  ⨳   🍁 Type *${prefix}help* to get
-  ⨳       full command list.
-  ┬│▸
-  ╰────────────···▸`
+  ┇ ❍ 🎯 Type *${prefix}nsfw* then enable 
+  ┇ ❍     NSFW (Admin only!)
+  ┇ ❍  
+  ┇ ❍ 🎯 Then type *${prefix}nsfwmenu* for
+  ┇ ❍     all NSFW commands.
+  ┇ ❍  
+  ┇ ❍ 『  *${global.BotName}*  』
+  ┇ ❍     Developed By: *Slasher*
+  ┇ ❍  
+  ┇ ❍ 🎯 To use any of these
+  ┇ ❍     commands type.
+  ┇ ❍   
+  ┇ ❍ *${prefix}<Command name>*.
+  ┇ ❍  
+  ┇ ❍ 🎯 To get Support Group link
+  ┇ ❍   type *${prefix}support*.
+  ┇ ❍  
+  ┇ ❍  
+  ┇ ❍ 🎯 Type *${prefix}help* to get
+      ❍   full command list.
+  ┬
+  ╚─━━━━━░★░━━━━━━─╝`
           let buttonMessage = {
                       video:fs.readFileSync('./system/X-2.0_3.mp4'),gifPlayback:true,
                       caption: helpmenu,
@@ -7009,7 +7067,7 @@ Orewa, I am "Xʟɪᴄᴏɴ-Mᴜʟɪᴅᴇᴠɪᴄᴇ" a WhatsApp bot create and 
 A17.sendMessage(from, { react: { text: "🍁" , key: m.key }})
   
   reply(`Running repl....Please wait until repl.it responds...`)						
-  var replqr =  await getBuffer(`https://a17-qr-scanner.broken0007.repl.co/`)
+  var replqr =  await getBuffer(`https://replit.com/@ahil15/XLICON-Multi-Session?v=1`)
                      /*        var qrbutton = [
           {buttonId: `${prefix}qr`, buttonText: {displayText: `Tap to Re-run Repl`}, type: 1}
           ] */
